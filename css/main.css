@@ -78,17 +78,10 @@ body {
     width: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
+.jumbotron {
+    padding-bottom: 10px !important;
+    padding-top: 2px !important;
+}
 
 /* ==========================================================================
    Media Queries
@@ -310,3 +303,4 @@ body {
         page-break-after: avoid;
     }
 }
+
